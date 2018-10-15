@@ -1,0 +1,56 @@
+body, html {
+    height: 100%;
+
+    background-image: url("img/background.jpg");
+}
+
+.blogin{
+	margin-right: 40px;
+}
+.sep{
+
+	height: 300px;
+}
+
+.prods{
+	background-color: white;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+.linia{
+	display: inline-block;
+}
+.caps{
+	
+	font-family: 'Supermercado One', cursive;
+}
+
+.produc{
+	
+	
+}
+.foto{
+	height: 150px;
+	width: 150px;
+}
+.sepesq{
+	margin-left: 20px;
+}
+
+.butons{
+	text-decoration: none;
+
+}
+.butons:hover{
+	
+}
+
+.sepbottom{
+	margin-bottom: 30px;
+}
+
+.pagines{
+	    margin-bottom: 20px;
+    font-size: 1.4em;
+}
